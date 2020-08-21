@@ -1,0 +1,23 @@
+{
+  "name": "Senha-valida-ou-invalida",
+  "version": "1.0.0",
+  "description": "Programa que verifique a validade de uma senha fornecida pelo usuário. \r     A senha válida é o número 1234. Devem ser impressas as seguintes mensagens: \r     ACESSO PERMITIDO caso a\tsenha seja válida. \r     ACESSO NEGADO caso a senha seja inválida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/Senha-valida-ou-invalida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/Senha-valida-ou-invalida/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/Senha-valida-ou-invalida#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
